@@ -1,3 +1,5 @@
 Something in there
 Change1
 Change2
+New line added in branch 2
+New line added in branch 2
